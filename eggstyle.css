@@ -1,0 +1,15 @@
+p {
+	color: navy;
+}
+h2 {
+	color: mediumseagreen;
+}
+h1{
+	text-align: center;color: darkcyan;
+}
+table#table1{
+     border: 1px solid black;
+} 
+ul, li {
+	color: navy;
+}	
